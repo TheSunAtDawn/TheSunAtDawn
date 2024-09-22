@@ -1,6 +1,6 @@
 - ◇ Hi, I’m @TheSunAtDawn
-- ♡ I’m currently a first year computer science student
-- ♧ I’m currently learning C# as my first language please do give me a comment on this
+- ♡ I’m currently a second year computer science student
+- ♧ I’m currently learning C# as my first language  and JAVA as my second please do give me a advise on this
 - ♤ I’m hoping to become a software engineer in FANG company  in the future
 - □ How to reach me? I don't know for I am new in GitHub
 
